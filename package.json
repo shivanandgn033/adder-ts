@@ -1,13 +1,13 @@
 {
   "name": "adder-ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/shivanandgn033"
   },
   "keywords": [],
   "author": "",
